@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '4589'
     url: http://www.gutenberg.org/2009/agents/4589
     wikipedia: http://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude
+covers:
+- cover_type: archival
+  image_path: 64908-h/images/cover.jpg
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: https://en.wikipedia.org/wiki/Leo_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64908#What-Is-Art
 gutenberg_issued: '2021-03-23'
 gutenberg_type: Text
 identifiers:
